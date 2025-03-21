@@ -26,4 +26,4 @@
 <h2>Configuração</h2>
 
 <p>Execute o comando:</p>
-<code>poetry new <projeto></code>
+<code>poetry new projeto</code>
