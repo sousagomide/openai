@@ -1,32 +1,28 @@
 ==================================================
-Assunto: Solicitação de Comunicação mais Agradável
+Assunto: Solicitação de Cancelamento de Aula
 
-Prezado [Nome do Chefe],
-
-Espero que este e-mail o encontre bem.
-
-Gostaria de pedir um momento do seu tempo para discutirmos a forma de comunicação no nosso dia a dia. Sinto que algumas interações têm sido desafiadoras e isso pode estar impactando nossa colaboração. Seria possível alinharmos melhor as expectativas e a forma como trocamos informações?
-
-Acredito que uma comunicação mais fluida e respeitosa beneficiaria não apenas a mim, mas toda a equipe.
-
-Agradeço pela compreensão e estou à disposição para conversarmos sobre isso.
-
-Atenciosamente,
-
-[Seu Nome]  
-[Seu Cargo]  
-[Seu Contato]  
-==================================================
-==================================================
-Assunto: Solicitação de Colaboração
-
-Caro [Nome do Chefe],
+Olá [Nome do Colegas],
 
 Espero que esteja bem.
 
-Gostaria de discutir a forma como temos trabalhado juntos. Às vezes, sinto que a carga de trabalho tem sido um pouco intensa e isso tem dificultado meu foco em algumas tarefas. Agradeceria muito se pudéssemos encontrar uma maneira de otimizar nossa comunicação e colaboração.
+Gostaria de informar que não poderei ministrar a aula programada para hoje. Peço desculpas por qualquer inconveniente que isso possa causar e agradeço a sua compreensão.
 
-Estou aberto a sugestões e gostaria de encontrar o melhor caminho para que possamos trabalhar de forma mais produtiva.
+Por favor, me avise se precisarmos conversar sobre a reposição ou qualquer outra questão relacionada.
+
+Agradeço desde já pela sua compreensão.
+
+Atenciosamente,
+
+[Seu Nome]
+==================================================
+==================================================
+Assunto: Sobre a aula de hoje
+
+Olá [Nome do Colega],
+
+Espero que você esteja bem.
+
+Gostaria de informar que não poderei ministrar a aula programada para hoje. Se puder, por favor, me avise se há algo que eu possa providenciar para que tudo corra bem nesse período.
 
 Agradeço pela compreensão.
 
@@ -34,16 +30,17 @@ Atenciosamente,
 [Seu Nome]
 ==================================================
 ==================================================
-Assunto: Solicitação de Colaboração
+Assunto: Solicitação de Substituição na Aula de Hoje
 
 Caro [Nome do Colega],
 
-Espero que esteja bem. 
+Espero que você esteja bem. 
 
-Gostaria de pedir sua ajuda em relação a algumas demandas que temos discutido. Tenho sentido a necessidade de ter um espaço um pouco mais tranquilo para me concentrar nas minhas tarefas. 
+Gostaria de informar que, por motivos pessoais, não poderei ministrar a aula programada para hoje. Se possível, você poderia me ajudar assumindo essa responsabilidade? Ficaria muito grato.
 
-Agradeço antecipadamente por sua compreensão e colaboração.
+Agradeço a sua compreensão e ajuda.
 
-Atenciosamente,  
+Atenciosamente,
+
 [Seu Nome]
 ==================================================
