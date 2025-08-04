@@ -10,7 +10,7 @@ client = OpenAI()
 # linguagem que está sendo usada.
 # Mensagem de usuário (user) serve para interagir com o ChatGPT.
 response = client.chat.completions.create(
-    model='gpt-4o-mini',
+    model='gpt-3.5-turbo',
     messages=[
         {
             'role':'system',
