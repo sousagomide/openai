@@ -18,7 +18,7 @@ response = client.chat.completions.create(
         },
         {
             'role': 'user',
-            'content': 'Quem descobriu o Brasil?'
+            'content': 'Python é uma linguagem orientada a objetos?'
         }
     ],
     logprobs=True, # Mostra a probabilidade que os tokens foram colocados na frase

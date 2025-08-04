@@ -1,4 +1,4 @@
-from utils import client
+from ..utils import client
 import sys
 
 class Chat:
