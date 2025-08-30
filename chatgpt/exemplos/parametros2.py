@@ -18,7 +18,7 @@ response = client.chat.completions.create(
         },
         {
             'role': 'user',
-            'content': 'Python é uma linguagem orientada a objetos?'
+            'content': 'Qual a diferença entre Python e Java?'
         }
     ],
     logprobs=True, # Mostra a probabilidade que os tokens foram colocados na frase
